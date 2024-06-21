@@ -1,0 +1,17 @@
+Algoritmo "SOMA"
+
+Var
+ NUM1, NUM2, RESULT:INTEIRO
+
+
+Inicio
+      ESCREVA("DIGITE UM NUMERO ")
+      LEIA(NUM1)
+      ESCREVA("DIGITE UM SEGUNDO NUMERO ")
+      LEIA(NUM2)
+      RESULT <- NUM1+NUM2
+      
+      ESCREVAL("A SOMA DOS DOIS NUMERO É",RESULT)
+
+
+Fimalgoritmo
