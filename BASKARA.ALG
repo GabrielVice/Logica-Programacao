@@ -14,7 +14,7 @@ leia(C)
 
 delta <- B*B -4*A*C
 
-se (delta < 0)  ou ( A == 0)entao
+se (delta < 0)  ou ( A = 0)entao
             escreval (" A equação nao possue raizes reais")
          senao
             X1 <- (-B + raizq (delta))/(2*A)
